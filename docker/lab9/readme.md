@@ -24,7 +24,8 @@ http://localhost:3000/health
 ---
 
 http://localhost:3000/ready
-<img width="565" height="141" alt="image" src="https://github.com/user-attachments/assets/c6e21789-bd4a-4458-be0e-9538bbf7b5ef" />
+<img width="568" height="172" alt="Screenshot 2026-04-16 015055" src="https://github.com/user-attachments/assets/d07baf09-7a87-449e-ae71-84940b6bcfd0" />
+
 
 ---
 

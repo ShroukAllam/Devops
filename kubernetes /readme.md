@@ -1,7 +1,7 @@
 Lab 11: Namespace Management and Resource Quota Enforcement 
 
 Prerequisites
-Kubernetes cluster running (with tainted node from Lab 10)
+Kubernetes cluster running
 
 kubectl configured to communicate with your cluster
 

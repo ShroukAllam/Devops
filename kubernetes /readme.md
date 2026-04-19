@@ -10,7 +10,7 @@ Step 1: Verify Initial Node Status - Run kubectl get nodes to see your available
 <img width="607" height="82" alt="image" src="https://github.com/user-attachments/assets/d61a21f4-6a6b-48d7-800a-b0f999d871db" />
 
  
-Step 2: Create Namespace - Execute kubectl create namespace ivolve to create a new namespace called "ivolve" that will isolate your resources
+Step 2: Create Namespace - Execute kubectl create namespace ivolve to create a new namespace called "ivolve" that will isolate your resources /n
 Step 3: Verify Namespace Creation - Run kubectl get namespaces to confirm the ivolve namespace appears with Active status 
 <img width="589" height="141" alt="image" src="https://github.com/user-attachments/assets/94a720ec-a40d-4af5-8a8f-8cb49f3b9b8e" />
 

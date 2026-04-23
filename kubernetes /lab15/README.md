@@ -140,7 +140,6 @@ kubectl run test-client --image=busybox -n ivolve --rm -it --restart=Never -- sh
 ```
 <img width="980" height="231" alt="image" src="https://github.com/user-attachments/assets/1cd9e985-259a-4103-ae61-590b0983ff38" />
 
-
 <img width="833" height="297" alt="image" src="https://github.com/user-attachments/assets/8c5d6fb1-d2de-4fd2-9d57-00c78dae3cac" />
 
 

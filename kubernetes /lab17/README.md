@@ -70,5 +70,4 @@ kubectl top pod -n ivolve
 <img width="605" height="79" alt="image" src="https://github.com/user-attachments/assets/5d6e7d7b-2704-4720-a44a-9617229270de" />
 
 
-kubectl get pods -n kube-system | grep metrics-server
-```
+

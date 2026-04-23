@@ -54,18 +54,7 @@ kubectl get pods -n ivolve
 kubectl describe pod nodejs-app-845f4777-k9cds -n ivolve
 ```
 
-Look for this section in the output:
 
-```
-Containers:
-  nodejs-app:
-    Requests:
-      cpu:     1
-      memory:  1Gi
-    Limits:
-      cpu:     2
-      memory:  2Gi
-```
 <img width="532" height="238" alt="image" src="https://github.com/user-attachments/assets/1ab96f37-e613-40af-b943-edf839fcf788" />
 
 
